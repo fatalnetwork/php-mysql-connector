@@ -2,7 +2,6 @@
 
 # MySQL Connector
 # Version 4.1
-# GitHub: 
 # Under the MIT License
 
 class MysqlConnector {
